@@ -1,4 +1,4 @@
-# url-shortner
+# Url Shortner
 Java Spring MongoDb Url Shortner
 
 # Functional Requirements:
